@@ -1,0 +1,1 @@
+public record Vertical(int Id, string Name, string Key, string EndPoint, string BasicAuthId, string BasicAuthPassword);
